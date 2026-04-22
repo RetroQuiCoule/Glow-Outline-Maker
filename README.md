@@ -7,6 +7,7 @@
 **Glow Outline Maker** is a py desktop app that allows you to apply Glow, Outline, and Neon effects to transparent PNG images.
 
 Dark-themed UI and multithreaded OpenCV rendering.
+
 Vibe-Code Gemini 3.1 Pro
 
 ---
